@@ -1,6 +1,6 @@
 Hi I'm Ihsan!
 
-I'm currently intrested in Data Analytics & Machine Learning.
+I'm currently intrested in Data Analytics & Engineering.
 
 <!---
 icanooooo/icanooooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
